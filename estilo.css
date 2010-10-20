@@ -1,0 +1,33 @@
+body {
+	background:#001A33;
+}
+
+h1 {
+	color:#ADAD00;
+	text-shadow: 1px 1px 3px #000; 
+}
+a {
+	color:#0073E6;
+	text-decoration:none;
+}
+a:hover {
+	color:#0080FF;
+	
+}
+li {
+	list-style: none;
+	padding:3px;
+	background:#000033;
+	margin-bottom:5px;
+	display:block;
+}
+
+li:hover {
+	background:#1A0033;
+}
+
+h3 {
+	font-size:15px;
+	text-align:center;
+	color:#e4e4e4;
+}
